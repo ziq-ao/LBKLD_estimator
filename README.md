@@ -1,7 +1,7 @@
 # LBKLD_estimator
 
-The code for the paper of "An approximate {KLD} based experimental design for models with intractable likelihoods"
-(https://arxiv.org/abs/2004.00715).
+The code for the paper of "An approximate KLD based experimental design for models with intractable likelihoods"
+(http://proceedings.mlr.press/v108/ao20a/ao20a.pdf).
 
 ## How to run: 
 To see design results of the mathematical example, go to the directory `multi`, and run the script `multi_main.m`.
